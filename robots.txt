@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jd-logistics.co.uk/sitemap.xml
